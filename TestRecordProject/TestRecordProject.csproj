@@ -184,7 +184,13 @@
     <Content Include="Content\Roboto.css" />
     <Content Include="Content\style.css" />
     <Content Include="favicon.ico" />
+    <Content Include="fonts\font-awesome\css\font-awesome.css" />
+    <Content Include="fonts\font-awesome\css\font-awesome.min.css" />
+    <Content Include="fonts\font-awesome\fonts\fontawesome-webfont.svg" />
     <Content Include="fonts\glyphicons-halflings-regular.svg" />
+    <Content Include="fonts\Open Sans\Open-Sans-Regular.svg" />
+    <Content Include="fonts\Open Sans\Open-Sans.svg" />
+    <Content Include="fonts\Roboto\Roboto.svg" />
     <Content Include="Global.asax" />
     <Content Include="ApplicationInsights.config">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
@@ -230,15 +236,73 @@
     <Folder Include="Models\" />
   </ItemGroup>
   <ItemGroup>
-    <Content Include="fonts\glyphicons-halflings-regular.woff" />
-  </ItemGroup>
-  <ItemGroup>
-    <Content Include="fonts\glyphicons-halflings-regular.ttf" />
-  </ItemGroup>
-  <ItemGroup>
+    <Content Include="fonts\font-awesome\fonts\fontawesome-webfont.eot" />
+    <Content Include="fonts\font-awesome\fonts\fontawesome-webfont.ttf" />
+    <Content Include="fonts\font-awesome\fonts\fontawesome-webfont.woff" />
+    <Content Include="fonts\font-awesome\fonts\fontawesome-webfont.woff2" />
+    <Content Include="fonts\font-awesome\fonts\FontAwesome.otf" />
+    <Content Include="fonts\font-awesome\less\animated.less" />
+    <Content Include="fonts\font-awesome\less\bordered-pulled.less" />
+    <Content Include="fonts\font-awesome\less\core.less" />
+    <Content Include="fonts\font-awesome\less\fixed-width.less" />
+    <Content Include="fonts\font-awesome\less\font-awesome.less" />
+    <Content Include="fonts\font-awesome\less\icons.less" />
+    <Content Include="fonts\font-awesome\less\larger.less" />
+    <Content Include="fonts\font-awesome\less\list.less" />
+    <Content Include="fonts\font-awesome\less\mixins.less" />
+    <Content Include="fonts\font-awesome\less\path.less" />
+    <Content Include="fonts\font-awesome\less\rotated-flipped.less" />
+    <Content Include="fonts\font-awesome\less\screen-reader.less" />
+    <Content Include="fonts\font-awesome\less\stacked.less" />
+    <Content Include="fonts\font-awesome\less\variables.less" />
+    <Content Include="fonts\font-awesome\scss\font-awesome.scss" />
+    <Content Include="fonts\font-awesome\scss\_animated.scss" />
+    <Content Include="fonts\font-awesome\scss\_bordered-pulled.scss" />
+    <Content Include="fonts\font-awesome\scss\_core.scss" />
+    <Content Include="fonts\font-awesome\scss\_fixed-width.scss" />
+    <Content Include="fonts\font-awesome\scss\_icons.scss" />
+    <Content Include="fonts\font-awesome\scss\_larger.scss" />
+    <Content Include="fonts\font-awesome\scss\_list.scss" />
+    <Content Include="fonts\font-awesome\scss\_mixins.scss" />
+    <Content Include="fonts\font-awesome\scss\_path.scss" />
+    <Content Include="fonts\font-awesome\scss\_rotated-flipped.scss" />
+    <Content Include="fonts\font-awesome\scss\_screen-reader.scss" />
+    <Content Include="fonts\font-awesome\scss\_stacked.scss" />
+    <Content Include="fonts\font-awesome\scss\_variables.scss" />
     <Content Include="fonts\glyphicons-halflings-regular.eot" />
-  </ItemGroup>
-  <ItemGroup>
+    <Content Include="fonts\glyphicons-halflings-regular.ttf" />
+    <Content Include="fonts\glyphicons-halflings-regular.woff" />
+    <Content Include="fonts\glyphicons-halflings-regular.woff2" />
+    <Content Include="fonts\Open Sans\Open-Sans-Bold.ttf" />
+    <Content Include="fonts\Open Sans\Open-Sans-Bold.woff" />
+    <Content Include="fonts\Open Sans\Open-Sans-Bold.woff2" />
+    <Content Include="fonts\Open Sans\Open-Sans-Light.ttf" />
+    <Content Include="fonts\Open Sans\Open-Sans-Light.woff" />
+    <Content Include="fonts\Open Sans\Open-Sans-Light.woff2" />
+    <Content Include="fonts\Open Sans\Open-Sans-Regular.eot" />
+    <Content Include="fonts\Open Sans\Open-Sans-Regular.ttf" />
+    <Content Include="fonts\Open Sans\Open-Sans-Regular.woff" />
+    <Content Include="fonts\Open Sans\Open-Sans-Regular.woff2" />
+    <Content Include="fonts\Open Sans\Open-Sans-SemiBold.ttf" />
+    <Content Include="fonts\Open Sans\Open-Sans-SemiBold.woff" />
+    <Content Include="fonts\Open Sans\Open-Sans-SemiBold.woff2" />
+    <Content Include="fonts\Open Sans\Open-Sans.eot" />
+    <Content Include="fonts\Open Sans\Open-Sans.ttf" />
+    <Content Include="fonts\Open Sans\Open-Sans.woff" />
+    <Content Include="fonts\Open Sans\Open-Sans.woff2" />
+    <Content Include="fonts\Roboto\Roboto-Bold.ttf" />
+    <Content Include="fonts\Roboto\Roboto-Bold.woff" />
+    <Content Include="fonts\Roboto\Roboto-Bold.woff2" />
+    <Content Include="fonts\Roboto\Roboto-Light.ttf" />
+    <Content Include="fonts\Roboto\Roboto-Light.woff" />
+    <Content Include="fonts\Roboto\Roboto-Light.woff2" />
+    <Content Include="fonts\Roboto\Roboto-Medium.ttf" />
+    <Content Include="fonts\Roboto\Roboto-Medium.woff" />
+    <Content Include="fonts\Roboto\Roboto-Medium.woff2" />
+    <Content Include="fonts\Roboto\Roboto.eot" />
+    <Content Include="fonts\Roboto\Roboto.ttf" />
+    <Content Include="fonts\Roboto\Roboto.woff" />
+    <Content Include="fonts\Roboto\Roboto.woff2" />
     <None Include="packages.config" />
     <Content Include="Scripts\api\typehead_collection.json" />
     <Content Include="Views\Shared\_Footer.cshtml" />
